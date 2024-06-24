@@ -39,7 +39,7 @@ let link = '';
 let edgetunnel = 'ed';
 let RproxyIP = 'false';
 let proxyIPs = [//无法匹配到节点名就随机分配以下ProxyIP域名
-	'ts.hpc.tw,
+	'ts.hpc.tw',
 	'my-telegram-is-herocore.onecf.eu.org',
 ];
 let CMproxyIPs = [
